@@ -1,0 +1,60 @@
+h1  {
+	text-align: center;
+	color: black;
+	border: 10px solid gray;
+    }
+#pag1	{
+		font-family: verdana;
+		background:red;
+		border:10px solid firebrick;
+	}
+#pag2   {
+		font-family: verdana;
+		background: yellow;
+		border:10px solid olive;
+    }
+#pag3   {
+		font-family: verdana;
+		background: green;
+		border:10px solid forestgreen; 
+    }
+#pag4   {
+		font-family: verdana;
+		background: blue;
+		border:10px solid skyblue;
+}
+body {
+	background-image: url(https://media.giphy.com/media/Vgdnagu37fu5W/giphy.gif);
+}
+table, th, td
+		{
+		border: 2px solid;
+		border-collapse: collapse;
+		border-color: lightgray;
+
+} 
+		
+th		{
+	text-align: center;
+	color: dark orange;
+	font size: 100%;
+
+}
+
+td 		{text-align: center;
+	color: black;
+
+} 
+
+table{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {width: 100px;
+	height: 100px;
+}
+img:hover{
+	width: 150px;
+	height: 150px;
+}
